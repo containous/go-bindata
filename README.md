@@ -2,6 +2,10 @@
 
 **This a copy of https://github.com/jteeuwen/go-bindata/ due to the disappearance of https://github.com/jteeuwen on GitHub.**
 
+The original code is in the branch [jteeuwen](https://github.com/containous/go-bindata/tree/jteeuwen).
+
+In the branch `master`, we have only change some imports to be working with `go get`.
+
 ## bindata
 
 This package converts any file into managable Go source code. Useful for
