@@ -1,3 +1,7 @@
+## IMPORTANT
+
+**This a copy of https://github.com/jteeuwen/go-bindata/ due to the disappearance of https://github.com/jteeuwen on GitHub.**
+
 ## bindata
 
 This package converts any file into managable Go source code. Useful for
